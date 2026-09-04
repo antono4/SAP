@@ -1,0 +1,8 @@
+# Logs & temp
+*.log
+*.tmp
+_test.txt
+.DS_Store
+
+# Credenciales local (no subir a producción)
+config/db.php
